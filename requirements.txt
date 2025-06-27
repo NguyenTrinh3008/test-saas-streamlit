@@ -1,2 +1,2 @@
-streamlit
-st-paywall 
+streamlit==1.28.0
+st-paywall==0.1.6 
